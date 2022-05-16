@@ -7,7 +7,6 @@
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +19,5 @@
   "bugs": {
     "url": "https://github.com/gvozdeveloper/frontend-project-lvl1/issues"
   },
-  
   "homepage": "https://github.com/gvozdeveloper/frontend-project-lvl1#readme"
 }
